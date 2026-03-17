@@ -215,3 +215,11 @@ form label {
   font-weight: bold;
   text-align: center;
 }
+
+form input {
+  width: 100px;
+}
+
+form .flex > div {
+  margin-right: 15px;
+}
