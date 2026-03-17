@@ -140,6 +140,12 @@ footer {
 .italics {
   font-style: italic;
 }
+
+article {
+  background-color: lightgray;
+  padding: 15px;
+  margin: 15px;
+}
 /****************** profile page styling ******************/
 
 /***  INSTRUCTIONS:
