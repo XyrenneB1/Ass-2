@@ -89,6 +89,10 @@ p {
 - There will be 15px of space between each link.
 - The text in the footer will be centered, with 15px of space between the content and the edge of the footer.
 */
+header,
+footer {
+  background-color: #c74364;
+}
 
 /*** INSERT YOUR WORK BELOW: ***/
 
