@@ -205,3 +205,13 @@ article {
 */
 
 /*** INSERT YOUR WORK BELOW: ***/
+form {
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+form label {
+  display: block;
+  font-weight: bold;
+  text-align: center;
+}
