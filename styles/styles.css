@@ -146,6 +146,7 @@ article {
   padding: 15px;
   margin: 15px;
 }
+
 /****************** profile page styling ******************/
 
 /***  INSTRUCTIONS:
@@ -159,7 +160,17 @@ article {
 */
 
 /*** INSERT YOUR WORK BELOW: ***/
+.wide-column {
+  width: 420px;
+}
 
+.narrow-column {
+  width: 180px;
+}
+
+.wide-column img {
+  width: 120px;
+}
 /****************** form styling ******************/
 
 /***  INSTRUCTIONS:
