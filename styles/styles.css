@@ -44,6 +44,8 @@ h2 {
 - Anchors in the header will be black.
 - There will be 15px of space under 2nd level headings and paragraphs.
 */
+
+/*** INSERT YOUR WORK BELOW: ***/
 h1 {
   font-size: 32px;
 }
@@ -74,8 +76,6 @@ h2,
 p {
   margin-bottom: 15px;
 }
-/*** INSERT YOUR WORK BELOW: ***/
-
 /****************** site-wide styling ******************/
 
 /***  INSTRUCTIONS:
@@ -89,6 +89,8 @@ p {
 - There will be 15px of space between each link.
 - The text in the footer will be centered, with 15px of space between the content and the edge of the footer.
 */
+
+/*** INSERT YOUR WORK BELOW: ***/
 header,
 footer {
   background-color: #c74365;
@@ -127,8 +129,6 @@ footer {
   text-align: center;
   padding: 15px;
 }
-/*** INSERT YOUR WORK BELOW: ***/
-
 /****************** home page styling ******************/
 
 /***  INSTRUCTIONS:
@@ -137,7 +137,9 @@ footer {
 */
 
 /*** INSERT YOUR WORK BELOW: ***/
-
+.italics {
+  font-style: italic;
+}
 /****************** profile page styling ******************/
 
 /***  INSTRUCTIONS:
