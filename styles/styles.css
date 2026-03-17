@@ -233,6 +233,7 @@ form button {
   background-color: white;
   border-radius: 4px;
   font-family: inherit;
+  margin-left: auto;
 }
 
 form button:hover {
