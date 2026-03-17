@@ -223,3 +223,14 @@ form input {
 form .flex > div {
   margin-right: 15px;
 }
+
+form button {
+  display: block;
+  height: 21px;
+  width: 100px;
+  margin-top: 30px;
+  border: 1px solid grey;
+  background-color: white;
+  border-radius: 4px;
+  font-family: inherit;
+}
