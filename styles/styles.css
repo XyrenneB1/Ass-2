@@ -94,6 +94,11 @@ footer {
   background-color: #c74364;
 }
 
+main,
+header {
+  margin-top: 30px;
+}
+
 /*** INSERT YOUR WORK BELOW: ***/
 
 /****************** home page styling ******************/
