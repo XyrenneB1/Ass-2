@@ -104,6 +104,7 @@ header {
 header a {
   font-size: 18px;
   color: black;
+  line-height: 50px;
 }
 
 header img {
@@ -112,17 +113,17 @@ header img {
   margin: 10px;
 }
 
-header h1,
-header nav a {
-  line-height: 50px;
-}
-
 header h1 {
+  line-height: 50px;
   margin-right: auto;
 }
 
 nav ul {
   gap: 15px;
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 footer {
@@ -224,7 +225,6 @@ form label {
 
 form input {
   width: 100px;
-  box-sizing: border-box;
 }
 
 form .flex > div {
