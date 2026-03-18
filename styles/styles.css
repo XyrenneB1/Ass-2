@@ -168,8 +168,14 @@ article {
   width: 180px;
 }
 
+.profile-container {
+  display: flex;
+  width: 600px;
+}
+
 .wide-column img {
   width: 120px;
+  height: auto;
 }
 
 .labels {
@@ -218,6 +224,7 @@ form label {
 
 form input {
   width: 100px;
+  box-sizing: border-box;
 }
 
 form .flex > div {
